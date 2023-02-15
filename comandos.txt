@@ -1,0 +1,33 @@
+-Comandos do Eduardo Assistent:
+
+Que Horas São - Diz as Horas
+Qual é o tempo de segundos - Diz Minutos e Segundos
+Procure por texto - Procura por o que você imprimiu (Troque o texto por o que você quizer pesquisar.)
+https://www.google.com/ - Google
+https://www.youtube.com/ - YouTube
+https://www.linkedin.com/ - Linkedin
+https://www.facebook.com/ - Facebook
+Toque música - Toca uma Música (Troque música por sua música)
+
+-Bibliotecas Necessarias para editar o código:
+Pyttsx3
+Wikipedia
+PyWhatKit
+DateTime
+
+-Como instalar as bibliotecas necessarias:
+Pyttsx3:
+
+pip install pyttsx3
+
+Wikipedia:
+
+pip install wikipedia
+
+PyWhatKit:
+
+pip install pywhatkit
+
+DateTime:
+
+pip install datetime
